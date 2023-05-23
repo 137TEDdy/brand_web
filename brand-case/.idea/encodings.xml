@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/mapper/BrandMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/pojo/PageBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/service/BrandService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/web/AddServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/web/DeleteByIdsServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/web/LoginServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/web/SelectAllServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/web/SelectByPageAndCondition.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/web/SelectByPageServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/web/UpdateServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/itheima/web/queryByConditionServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
